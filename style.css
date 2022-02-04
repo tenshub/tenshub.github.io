@@ -1,0 +1,99 @@
+h1 {
+	position: fixed;
+	top:  50%;
+	left:  50%;
+	transform:  translate(-50%, -50%);
+}
+
+
+#upperRight {
+	position: fixed;
+	top:  25%;
+	left:  25%;
+	transform:  translate(-50%, -50%);
+
+}
+
+
+#lowerRight {
+	position: fixed;
+	top:  75%;
+	left:  25%;
+	transform:  translate(-50%, -50%);
+
+}
+
+
+#upperLeft {
+	position: fixed;
+	top:  25%;
+	left:  75%;
+	transform:  translate(-50%, -50%);
+
+}
+
+
+#lowerLeft {
+	position: fixed;
+	top:  75%;
+	left:  75%;
+	transform:  translate(-50%, -50%);
+
+}
+
+
+h2 {
+	position: fixed;
+	left:  50%;
+	transform:  translate(-50%);
+}
+
+
+#myWorksLinks {
+	position:  fixed;
+	top: 25%;
+	left: 50%;
+	text-align: center;
+	transform:  translate(-50%, -50%);
+}
+
+
+#linksLinks {
+	position: fixed;
+	top: 25%;
+	left: 50%;
+	text-align: center;
+	transform: translate(-50%, -50%);
+}
+
+
+#aboutMeBody {
+	position: fixed;
+	top: 25%;
+	left: 50%;
+	text-align: center;
+	transform: translate(-50%, -50%);
+}
+
+
+.firstHeaderButton {
+	position: fixed;
+	left: 25%;
+	transform: translate(-50%);
+}
+
+
+.secondHeaderButton {
+	position: fixed;
+	left: 75%;
+	transform: translate(-50%);
+}
+
+
+#contactForm {
+	position:  fixed;
+	top: 25%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
